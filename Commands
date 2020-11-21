@@ -3,3 +3,6 @@ npx eslint yourfile.js
 
 EditorConfig definitions:
 .editorconfig file has the relevant data and coding configurations
+
+Prettier
+.prettierrc.js
